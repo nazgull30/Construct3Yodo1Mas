@@ -65,8 +65,8 @@ iOs:
 7. In terminal from you construct codova project (step 3) add cordova plugin with the command `cordova plugin add PATH_TO_CLONED_CORDOVA_PLUGIN_HERE`
 folders platform/android and platform/ios contain android and ios projects. You can open android project with Android Studio and ios project with xCode (open xcworkspace file).
 
-If you want a debug build for android them use command `cordova ios build`. 
+If you want a debug build for android them use command `cordova build android`. 
 
-You have yo use Xcode to build a project for ios.
+For ios: open the workspace from platform/ios folder.
 
 
