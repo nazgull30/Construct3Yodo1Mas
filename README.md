@@ -41,7 +41,6 @@ to the both ios and android.
 cordova prepare
 cordova platform add ios
 cordova platform add android
-cordova plugin add cordova-plugin-device
 ```
 
 5. Clone MAS cordova plugin via git clone, or download it from here: https://github.com/nazgull30/CordovaYodo1Mas.git
